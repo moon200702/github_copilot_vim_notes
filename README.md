@@ -101,3 +101,7 @@ git clone --depth=1 https://github.com/github/copilot.vim.git ~/.vim/pack/github
 # Final instruction
 echo "Installation completed. Open Vim and run :Copilot setup to authenticate GitHub Copilot."
 ```
+# Refrence
+https://nodejs.org/zh-tw/download
+https://www.vim.org/download.php
+https://github.com/github/copilot.vim
